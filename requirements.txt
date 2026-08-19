@@ -1,0 +1,5 @@
+numpy
+spacy
+faiss-cpu
+rank_bm25
+requests
